@@ -1,0 +1,14 @@
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\obj\Release\AAB.csprojAssemblyReference.cache
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\obj\Release\MainWindow.g.cs
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\obj\Release\App.g.cs
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\obj\Release\Advanced Ad Blocker_MarkupCompile.cache
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\obj\Release\Advanced Ad Blocker_MarkupCompile.lref
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\obj\Release\MainWindow.baml
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\obj\Release\Advanced Ad Blocker.g.resources
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\obj\Release\AAB.Properties.Resources.resources
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\obj\Release\AAB.csproj.GenerateResource.cache
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\obj\Release\Advanced Ad Blocker.exe
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\obj\Release\Advanced Ad Blocker.pdb
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\bin\Release\Advanced Ad Blocker.exe.config
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\bin\Release\Advanced Ad Blocker.exe
+C:\Users\Srilal Sachintha\source\repos\AAB\AAB\bin\Release\Advanced Ad Blocker.pdb

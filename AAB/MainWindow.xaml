@@ -1,0 +1,31 @@
+﻿<Window x:Class="AAB.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AAB"
+        mc:Ignorable="d"
+        Title="Advanced Ad Blocker V 1.0" Height="450" Width="800" WindowStartupLocation="CenterScreen" VerticalAlignment="Center" HorizontalAlignment="Center" ResizeMode="NoResize">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="68*"/>
+            <ColumnDefinition Width="329*"/>
+        </Grid.ColumnDefinitions>
+        <GroupBox Header="Host File Commands" HorizontalAlignment="Left" Height="346" Margin="409,10,0,0" VerticalAlignment="Top" Width="239" Grid.Column="1"/>
+        <Button x:Name="update" Content="Update Host File" HorizontalAlignment="Left" Margin="425,34,0,0" VerticalAlignment="Top" Width="210" Height="52" Click="Button_Click_1" Grid.Column="1"/>
+        <Label Content="Number of Hosts" HorizontalAlignment="Left" Margin="10,52,0,0" VerticalAlignment="Top" Width="147" Grid.ColumnSpan="2"/>
+        <Label x:Name="hostlines" Content="Number Here" HorizontalAlignment="Left" Margin="21,52,0,0" VerticalAlignment="Top" Width="220" FontWeight="Bold" Grid.Column="1"/>
+        <Label Content="Host File Version :" HorizontalAlignment="Left" Margin="10,83,0,0" VerticalAlignment="Top" Width="147" Grid.ColumnSpan="2"/>
+        <Label x:Name="lstupdt" Content="Number Here" HorizontalAlignment="Left" Margin="21,83,0,0" VerticalAlignment="Top" Width="220" FontWeight="Bold" Grid.Column="1"/>
+        <Label Content="Advanced Ad Blocker V 1.0" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="443" FontSize="24" Grid.ColumnSpan="2"/>
+        <Label Content="Host File Status :" HorizontalAlignment="Left" Margin="10,114,0,0" VerticalAlignment="Top" Width="147" Grid.ColumnSpan="2"/>
+        <Label x:Name="moded" Content="Moded/Unmoded" HorizontalAlignment="Left" Margin="21,114,0,0" VerticalAlignment="Top" Width="220" FontWeight="Bold" Grid.Column="1"/>
+        <Button x:Name="clear" Content="Clear Host File" HorizontalAlignment="Left" Margin="425,91,0,0" VerticalAlignment="Top" Width="210" Height="52" Click="clear_Click" Grid.Column="1"/>
+        <Button x:Name="openhostfile" Content="Open Host File" HorizontalAlignment="Left" Margin="425,148,0,0" VerticalAlignment="Top" Width="210" Height="52" Click="openhostfile_Click" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="425,205,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="99" Width="210" Grid.Column="1"><Run FontWeight="Bold" Text="Remember : Editing The Host File Will not break Your Os. If Anything Goes Wrong Just Press &quot;Clear Host File&quot; and It Will Reset The Host File."/></TextBlock>
+        <Label Content="Host File Makers :" HorizontalAlignment="Left" Margin="10,140,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Grid.ColumnSpan="2"/>
+        <Label Content="MVPs ( http://winhelp2002.mvps.org/ )" HorizontalAlignment="Left" Margin="21,140,0,0" VerticalAlignment="Top" FontWeight="Bold" FontSize="16" Grid.Column="1"/>
+        <Button x:Name="cdev" Content="Contact Developer" HorizontalAlignment="Left" Margin="409,361,0,0" VerticalAlignment="Top" Width="117" Height="49" Click="cdev_Click" Grid.Column="1"/>
+        <Button x:Name="Exit" Content="Exit" HorizontalAlignment="Left" Margin="531,361,0,0" VerticalAlignment="Top" Width="104" Height="49" Click="Exit_Click" Grid.Column="1"/>
+    </Grid>
+</Window>
