@@ -5,4 +5,4 @@ Based on [MVPS](http://winhelp2002.mvps.org/index.htm) Host File and Host File i
 [Download](https://srilals.github.io/Advanced-Ad-Blocker/)
 
 This Simplifies the process of installing and updating a Hostbased Adblocking System.
-Written in C# and Distributed Under GNUGPL 3.0.
+Written in C# and Distributed Under GNUGPL 3.0. (CCBY-NC-SA Is compatible with GPL3)
